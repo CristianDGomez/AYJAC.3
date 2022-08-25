@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="45652c4a-580b-4e64-9f71-e36b9c7ef4de" name="AYJAC.3" url="jdbc:postgresql://localhost/AYJAC.3" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
