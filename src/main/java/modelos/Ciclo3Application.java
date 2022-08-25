@@ -17,6 +17,7 @@ public class Ciclo3Application {
     @GetMapping("/test")
     public String test(){
         Empresa emp = new Empresa("AYJAC.3", "Calle nueva", "333562563","89562231");
+        emp.setNombre("A&JAC.3");
         return emp.getNombre();
     }
 
