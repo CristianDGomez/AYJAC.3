@@ -18,7 +18,6 @@ public class Ciclo3Application {
     public String test(){
         Empresa emp = new Empresa("AYJAC.3", "Calle nueva", "333562563","89562231");
         emp.setNombre("A&JAC.3");
-        //System.out.println("aprobado un souts");
         return emp.getNombre();
     }
 
